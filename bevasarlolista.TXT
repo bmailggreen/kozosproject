@@ -2,13 +2,10 @@ alma
 körte
 ribizli
 ringló
-<<<<<<< HEAD
 mandarin
 ananasz
 eper
-=======
 CSOKI
 PALACSINTA
->>>>>>> 03012ebbc6b71c342b76a9ca1e0e90c5ffe29489
 zoli teszt
 
