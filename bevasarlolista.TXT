@@ -4,3 +4,5 @@ ribizli
 ringló
 CSOKI
 PALACSINTA
+zoli teszt
+
