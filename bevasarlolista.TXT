@@ -2,3 +2,5 @@ alma
 körte
 ribizli
 ringló
+CSOKI
+PALACSINTA
