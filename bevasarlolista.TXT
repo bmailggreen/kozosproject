@@ -8,6 +8,6 @@ eper
 CSOKI
 PALACSINTA
 zoli teszt
-Norbi teszt :)
 még valami
+új sor
 
